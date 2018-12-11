@@ -3,5 +3,7 @@
 <mapper namespace="com.example.webchat.mapper.*">
 
     <!--Test-复制改名字即可-->
+<select id="FindAdds">
 
+</select>
 </mapper>
